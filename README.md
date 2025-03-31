@@ -1,1 +1,1 @@
-# Verfição, Validação e Normalização de dados no Excel
+# Verficação, Validação e Normalização de dados no Excel
